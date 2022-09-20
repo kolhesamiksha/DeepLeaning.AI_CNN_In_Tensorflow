@@ -1,6 +1,9 @@
 # DepLearning.AI Covolutional Neural Network Course
 This repository is all about the assignments given during the CNN course
 
+![image](https://user-images.githubusercontent.com/73512374/191228205-cfa95bf6-faa7-488d-84a9-acce68309a47.png)
+
+
 ## Course Content
 1. How to work on large datasets and improve better accuracy.
 2. Image Augmentation Techniques to avoid overfitting.
